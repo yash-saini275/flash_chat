@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "66579034415",
+    "firebase_url": "https://flash-chat-e73c4.firebaseio.com",
+    "project_id": "flash-chat-e73c4",
+    "storage_bucket": "flash-chat-e73c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66579034415:android:230a0c61791692cdb1f1da",
+        "android_client_info": {
+          "package_name": "co.inferno_marvelous.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66579034415-89qokei62d8lfiamma7t740ki1rj4d31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7hNkrybYT0eAyb6DabSlMO9tp_G8cm-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66579034415-89qokei62d8lfiamma7t740ki1rj4d31.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
